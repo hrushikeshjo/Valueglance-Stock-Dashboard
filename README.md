@@ -15,10 +15,14 @@ A simple React, TypeScript, and Tailwind CSS stock dashboard for the Valueglance
 
 ## Getting Started
 
+This repo contains all source and config needed to run the dashboard. Dependencies are installed from `package-lock.json`, so `node_modules` does not need to be committed.
+
 ```bash
 npm install
 npm run dev
 ```
+
+The app runs without a local `.env` file by using mock stock data. Add API keys only if you want live provider data.
 
 ## API Keys
 
