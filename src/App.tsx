@@ -81,7 +81,7 @@ function App() {
             <p className="text-sm font-semibold uppercase tracking-[0.18em] text-slate-500">Market Watch</p>
             <h1 className="mt-2 text-3xl font-semibold text-ink sm:text-4xl">Stock Price Dashboard</h1>
             <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-600">
-              Quotes for 100 Major US Stocks.
+              Quotes for Major US Stocks.
             </p>
           </div>
 
